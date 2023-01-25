@@ -1,0 +1,5 @@
+- utilisation API Kaamelott
+- fabriquer une image docker qui contient php, le server apache et avec l'application installé à l'intérieur de notre controller
+-
+
+source: https://www.youtube.com/watch?v=CK_SqfxAjuE&t=1052s
